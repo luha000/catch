@@ -2,8 +2,8 @@
 catch the web content
 
 
-## install 
+## install
 yarn or npm install
 
 ## Quick Start
-node startup.js
+npm start
