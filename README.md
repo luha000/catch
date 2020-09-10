@@ -3,7 +3,7 @@ catch the web content
 
 
 ## install 
-yarn 
+yarn or npm install
 
 ## Quick Start
 node startup.js
